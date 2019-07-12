@@ -1,7 +1,7 @@
 ## [RabbitPThreadBank - Project]
 
 #### 작성자 소개(About the author)
-> ##### 1. Dodo (rabbit.white@daum.net)
+> ##### 1. Dodo (rabbit.white@daum.net / jungwy@kumoh.ac.kr)
 > ##### 2. Created by: 2018-08-21
 > ##### 3. Description: 
 > ###### 3-1. Rabbit pThread Bank Project Initial Project / Dodo / 2018-08-26 / pThread Project
